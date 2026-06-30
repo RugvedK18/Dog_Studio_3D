@@ -21,5 +21,4 @@ Live : - https://dog-studio-3d-eight.vercel.app/
 | **GLSL** | Raw shader language for custom lighting and distortions. |
 | **GSAP** | For complex, timeline-based sequencing and "scrub" animations. |
 
-
 ---
